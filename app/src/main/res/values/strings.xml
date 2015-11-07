@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Precios PROCREAR</string>
+    <string name="app_description">Esta aplicacion brinda la posibilidad de ver la lista de precios de referencia (precios cuidados) de la construccion acordados con el ANSES.</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="action_denunciar">Denunciar</string>
+    <string name="main_view_producto_list_header_text">%1$d PRODUCTOS\u003A</string>
+    <string name="main_view_producto_list_header_empty_text">NO HAY PRODUCTOS</string>
+    <string name="main_view_producto_list_footer_text">1er Trimestre 2015</string>
+    <string name="main_view_redireccionando_sitio_anses_message">Redireccionando al sitio de ANSES\u2026</string>
+    <string name="main_view_dialog_no_productos_restart_app">No se pudo cargar la lista de productos. Desea reintentar?</string>
+
+</resources>

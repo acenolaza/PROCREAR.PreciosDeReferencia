@@ -1,0 +1,23 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ar.gob.anses.procrear.preciosdereferencia">
+
+    <application
+        android:allowBackup="true"
+        android:description="@string/app_description"
+        android:icon="@mipmap/ic_launcher"
+        android:installLocation="auto"
+        android:label="@string/app_name"
+        android:logo="@drawable/app_logo"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="ar.gob.anses.procrear.preciosdereferencia.ui.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
